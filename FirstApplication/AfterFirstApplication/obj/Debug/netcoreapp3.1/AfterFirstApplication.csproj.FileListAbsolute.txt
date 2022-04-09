@@ -1,0 +1,14 @@
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\bin\Debug\netcoreapp3.1\AfterFirstApplication.exe
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\bin\Debug\netcoreapp3.1\AfterFirstApplication.deps.json
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\bin\Debug\netcoreapp3.1\AfterFirstApplication.runtimeconfig.json
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\bin\Debug\netcoreapp3.1\AfterFirstApplication.runtimeconfig.dev.json
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\bin\Debug\netcoreapp3.1\AfterFirstApplication.dll
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\bin\Debug\netcoreapp3.1\AfterFirstApplication.pdb
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.csproj.AssemblyReference.cache
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.AssemblyInfoInputs.cache
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.AssemblyInfo.cs
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.csproj.CoreCompileInputs.cache
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.dll
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.pdb
+D:\Repos\Skillfactory\FirstApplication\AfterFirstApplication\obj\Debug\netcoreapp3.1\AfterFirstApplication.genruntimeconfig.cache
